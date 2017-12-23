@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/learning_image_transport_node.dir/src/image_publish.cpp.o  -o /home/mkant/catkin_ws/devel/lib/learning_image_transport/learning_image_transport_node -rdynamic 

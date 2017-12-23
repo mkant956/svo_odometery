@@ -1,0 +1,2 @@
+ethzasl_ptam/ethzasl_ptam:ethzasl_ptam/ptam:ethzasl_ptam/ptam_com:ethzasl_ptam/rqt_ptam:fast:learning_image_transport:rpg_vikit/vikit_common:rpg_vikit/vikit_py:rpg_vikit/vikit_ros:rqt_svo:svo:svo_analysis:svo_msgs:svo_ros:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/mkant/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mkant/catkin_ws/install -G Unix Makefiles
